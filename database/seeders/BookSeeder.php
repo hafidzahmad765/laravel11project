@@ -30,7 +30,7 @@ class BookSeeder extends Seeder
             ],
             [
                 'title' => 'HMSI SAMPAI MATI!',
-                'author' => 'Fakhri Muhammad Habibi',
+                'author' => 'Fakhri Muhammad Habibib',
                 'created_at' => Carbon::now(),
                 'updated_at' => Carbon::now(),
             ],
